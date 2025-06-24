@@ -1,25 +1,27 @@
-# DanceLink Privacy Policy
-
+🛡️ DanceLink Privacy Policy
 DanceLink does not collect, store, or share any personally identifiable information (PII).
+We do not use cookies, analytics trackers, or third-party ad SDKs.
 
-We do not use cookies, analytics, or third-party ad SDKs.
+Your device info (e.g., location or ZIP code) is used only to filter local dance events.
+Your data never leaves your device unless required for core features (e.g., interest tagging, event matching, or chat).
 
-Your device information is used solely for improving app performance (e.g., media rendering).
+DanceLink allows optional anonymous access. No login or personal info is required to explore the app.
+Some premium features (e.g., saved matches, chat history, or promo codes) may require account creation in the future.
 
-We respect your privacy, and our app functions without requiring login or personal data input.
+If you have any privacy concerns, contact: anthonyespinosa33891@gmail.com
 
-If you have any questions, contact: anthonyespinosa33891@gmail.com
+👨‍👩‍👧 DanceLink Child Safety Standards
+DanceLink is an adult matchmaking and social discovery app.
+It complies with all Google Play and international child protection regulations.
 
----
+Users under 18 are not permitted on the platform.
 
-### DanceLink Child Safety Standards
+DanceLink does not support uploading or sharing photos, videos, or user-generated content.
 
-DanceLink is committed to child safety and complies with all relevant laws and Google Play’s child safety policy.  
+Interest tagging and messaging are limited to verified, age-appropriate adult users only.
 
-- Users under the age of 13 are not permitted on the platform.  
-- Our app does **not** allow uploading or sharing user-generated content.  
-- We do not collect personal data or use advertising SDKs.  
-- Any future features involving communication will include reporting and moderation tools.  
+Our chat system is monitored for inappropriate behavior, and reporting tools will be added in future releases.
 
-For questions or concerns about safety or potential violations, contact: anthonyespinosa33891@gmail.com
+No personal data is collected for advertising or tracking.
 
+To report concerns about safety or potential violations, email: anthonyespinosa33891@gmail.com
